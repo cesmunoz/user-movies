@@ -1,0 +1,11 @@
+# Dependency directories
+node_modules/
+
+# dotenv environment variables file
+.env
+
+# Vim buffers
+*.swp
+*.swo
+
+.DS_Store
